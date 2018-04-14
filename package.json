@@ -1,0 +1,24 @@
+{
+  "name": "fuse-box-demo",
+  "version": "1.0.0",
+  "description": "Just attempt to use FuseBox",
+  "main": "fuse.js",
+  "dependencies": {},
+  "devDependencies": {
+    "fuse-box": "^3.2.1",
+    "typescript": "^2.8.1"
+  },
+  "scripts": {
+    "start": "node fuse.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SotaSuzuki/FuseBox-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SotaSuzuki/FuseBox-demo/issues"
+  },
+  "homepage": "https://github.com/SotaSuzuki/FuseBox-demo#readme"
+}
