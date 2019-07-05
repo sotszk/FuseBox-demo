@@ -5,8 +5,8 @@
   "main": "fuse.js",
   "dependencies": {},
   "devDependencies": {
-    "fuse-box": "^3.2.2",
-    "typescript": "^2.8.3"
+    "fuse-box": "^3.7.1",
+    "typescript": "^3.5.2"
   },
   "scripts": {
     "start": "node fuse.js"
